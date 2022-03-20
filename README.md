@@ -4,8 +4,8 @@ Created to save my time to set up React and the libraries I use the most. It inc
 - All dependencies and files created by `create-react-app` and have all demo files removed
 - Redux (`react-redux` and Redux Toolkit) with a pre-configured store
 - Github Pages (`gh-pages` as `devDependencies`)
-- Styled components
-- Meyer reset (`reset.css`)
+- [Styled components](https://github.com/styled-components)
+- [Normalized.css](https://github.com/necolas/normalize.css/)
 
 ## How to use:
 1. In the repo's main page, click "Code" -> "Download as ZIP"
