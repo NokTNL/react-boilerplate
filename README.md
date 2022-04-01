@@ -1,6 +1,6 @@
 # react-boilerplate
 
-Created to save my time to set up React and the libraries I use the most. It includes:
+Created to save my time on setting up React and the libraries I use the most. It includes:
 - All dependencies and files created by `create-react-app` and have all demo files removed
 - Redux (`react-redux` and Redux Toolkit) with a pre-configured store
 - Github Pages (`gh-pages` as `devDependencies`)
